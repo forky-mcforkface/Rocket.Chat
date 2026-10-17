@@ -83,7 +83,7 @@
 		"is-svg/fast-xml-parser": "5.5.11",
 		"webdav/fast-xml-parser": "5.5.11",
 		"follow-redirects": "^1.16.0",
-		"handlebars": "^4.7.9",
+		"handlebars": "^4.7.10",
 		"lodash": "^4.18.0",
 		"mailparser/html-to-text": "10.0.1",
 		"markdown-it": "^14.2.0",
